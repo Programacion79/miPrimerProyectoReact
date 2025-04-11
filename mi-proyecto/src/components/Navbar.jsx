@@ -1,3 +1,5 @@
+import React from 'react';
+
 const Navbar = () => (
   <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
     <div className="container-fluid">

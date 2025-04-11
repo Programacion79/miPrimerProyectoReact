@@ -1,3 +1,4 @@
+import React from 'react';
 const Header = () => (
   <div className="p-5 bg-primary text-white text-center">
     <h1>My First Bootstrap 5 Page</h1>
